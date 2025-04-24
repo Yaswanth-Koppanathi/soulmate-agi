@@ -91,7 +91,8 @@ This project is a prototype developed for the XHorizon 2025 Hackathon. Due to th
 
 ## Team
 
-- @Yaswanth-Koppanathi
+- K. Yaswanth
+- D. Anisha
 
 ## License
 
